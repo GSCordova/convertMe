@@ -1,0 +1,26 @@
+{
+  "name": "convertMe",
+  "version": "0.2.0",
+  "description": "Conversor de unidades",
+  "main": "dist/src/index.js",
+  "scripts": {
+    "build": "babel src/index.js -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSCordova/convertMe"
+  },
+  "keywords": [
+    "conversor",
+    "peso",
+    "javascript",
+    "unidades",
+    "peso"
+  ],
+  "author": "Gianmarco Segura <GSCordova7@gmail.com> (http://www.gianmarco.es/)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "6.26.0",
+    "babel-preset-env": "1.6.1"
+  }
+}
