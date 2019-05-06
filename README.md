@@ -38,7 +38,7 @@ convertMe(cantidad, pesoActual, pesoDeseado)
 
 ## Creditos
 
--[Gianmarco Segura](https://www.gianmarco.es/)
+[Gianmarco Segura](https://www.gianmarco.es/)
 
 
 ## Licencia
