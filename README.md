@@ -14,6 +14,7 @@ Esto es un paquete npm encargado de convertir unidades de:
 En construcción...
 
 03-02-2018 version 0.1.0
+
 04-02-2018 version 0.2.0
 
 
